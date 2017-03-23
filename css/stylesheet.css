@@ -1,0 +1,87 @@
+.logo{
+  float:right;
+  width: 30%;
+  height: 30%;
+  border: 2px black;
+  padding: 2px;
+}
+
+h1 {
+  color: White;
+  text-align: left;
+  font-family: Gill Sans Extrabold,sans-serif;
+  font-size: 40px
+}
+
+.jumbotron p.error-message {
+  font-size: 15px;
+}
+body{
+  background-color: #063c59;
+}
+
+.list{
+  list-style-type: none;
+  color:white;
+  font-size: 25px;
+}
+.nav-tabs{
+
+}
+.container middle{
+  color: white:
+}
+#p1{
+  font-family: impact;
+  font-size: 25px;
+  color: white;
+}
+blockquote{
+  font-family: cursive;
+  font-size: 20px;
+}
+#bake{
+  float: right;
+  width:80%;
+  height:80%;
+}
+
+#arch{
+  float: right;
+  width:80%;
+  height:80%;
+}
+#art{
+  float: right;
+  width:80%;
+  height:80%;
+}
+#bar{
+  float: right;
+  width:80%;
+  height:80%;
+}
+.box{
+  margin: 8px;
+  border: 6px solid #f2f5f7;
+  padding: 1px;
+  background-color: #555859;
+}
+.panel2{
+  float:right;
+}
+.panel3{
+  float:right;
+}
+.work{
+  color: white;
+}
+.work1{
+  color: white;
+}
+.work2{
+  color: white;
+}
+.work3{
+  color: white;
+}
